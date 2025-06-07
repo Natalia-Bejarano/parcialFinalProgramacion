@@ -1,0 +1,31 @@
+body {
+    background-color: #f5f5dc;
+    color:rgb(25, 116, 85);
+    text-align: center;
+    
+}
+h1 {
+    cursor: pointer;
+}
+button{
+    background-color: rgb(25, 116, 85);
+    border-radius: 12px;
+    color: #f5f5dc;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 16px;
+    font-weight: bold;
+}
+label {
+    font-weight: bold;
+}
+a{
+background-color: rgb(25, 116, 85);
+ border-radius: 12px;
+ color: #f5f5dc;
+ padding: 10px;
+ cursor: pointer;
+ margin-top: 16px;
+ font-weight: bold;
+ text-decoration: none;
+}
