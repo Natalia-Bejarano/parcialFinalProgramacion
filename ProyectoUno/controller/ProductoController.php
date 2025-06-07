@@ -2,7 +2,6 @@
 
 namespace app\controllers\Product;
 
-
 class ProductoController{
     public function queryAllProducts(){ 
         $producto = new ProductoController(); 
